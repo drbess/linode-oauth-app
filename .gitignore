@@ -1,0 +1,8 @@
+# Do not track the following file extensions
+
+# Class files #
+# =============
+*.pyc
+
+# Folders
+__pycache__/
