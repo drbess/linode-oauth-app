@@ -1,5 +1,5 @@
-client_id = '864e6f6b142385d79398'
-client_secret = '0cdabb89750666881924d5e15e4d5fe6855f38a3316a850e4fb2964a061a5274'
+client_id = 'my-client-id'
+client_secret = 'my-client-secret'
 stackscript_id = 320826
-application_name = 'terra-Oauth-22'
-secret_key = 'ssh-rsa AAAAB3NzaC1yc2EAAA'
+application_name = 'my-application-name'
+secret_key = 'my-secret-key'
